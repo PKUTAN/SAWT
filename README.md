@@ -3,6 +3,7 @@ The official python implementation for ICML 2024: "[Learning Solution-Aware Tran
 
 ![SAWT pipline](./SAWT.png)
 <p align="center">SAWT pipline</p>
+
 ## Environment
 
 Our SAWT uses PyTorch 1.8.1 cuda version of 11.1, This can be installed by:
