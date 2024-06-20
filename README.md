@@ -1,5 +1,5 @@
 # SAWT
-The official python implementation for ICML 2024: "Learning Solution-Aware Transformers for Efficiently Solving Quadratic Assignment Problem" 
+The official python implementation for ICML 2024: "Learning Solution-Aware Transformers for Efficiently Solving Quadratic Assignment Problem" :(https://openreview.net/pdf?id=bBkQ51PmjC)
 
 ## Environment
 
