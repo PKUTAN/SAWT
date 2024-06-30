@@ -40,3 +40,12 @@ This should give the results:
 ```
 Initial Cost: 69.64822 Best Cost: 54.95407 Opt Cost: 55.29000 Gap: -0.54 % Time: 38.413771867752075
 ```
+
+## Citation
+```
+@inproceedings{tanlearning,
+  title={Learning Solution-Aware Transformers for Efficiently Solving Quadratic Assignment Problem},
+  author={Tan, Zhentao and Yadong, MU},
+  booktitle={Forty-first International Conference on Machine Learning}
+}
+```
